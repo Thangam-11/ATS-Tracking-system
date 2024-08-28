@@ -32,15 +32,15 @@ The ATS Tracking System offers a user-friendly interface that allows users to ef
 Text Extraction: Uses the PyPDF2 library to extract text from uploaded resumes, initiating a thorough analysis.
 
 # Comprehensive Resume Analysis
-# Summary:
+ Summary:
 Provides a quick, comprehensive overview of resumes, emphasizing qualifications, key experience, skills, projects, and achievements.
-# Strengths: 
+ Strengths: 
 Highlights qualifications, experience, and accomplishments, providing job seekers with a competitive edge.
-# Weaknesses:
+ Weaknesses:
 Pinpoints areas for improvement and offers tailored suggestions to transform weaknesses into strengths.
-# Suggestions:
+Suggestions:
 Recommends personalized job titles aligned with the user's qualifications and resume content, optimizing the job search experience.
-# Percentage Match: 
+ Percentage Match: 
 Evaluates the percentage match between the resume and the job description.
 
 # How It Works
