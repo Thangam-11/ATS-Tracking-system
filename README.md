@@ -15,15 +15,22 @@ Streamlit
 # Installation
 
 pip install PyPDF2
+
 pip install langchain
+
 pip install streamlit
+
 pip install google.generativeai
+
+# Usage
+
+To use this project, follow these steps:
 
 Clone the repository:git clone https://github.com/Thangam-11/ATS-Tracking-system.git
 
-pip install -r requirements.txt
+Install the required packages: pip install -r requirements.txt
 
-streamlit run app.py
+Run the Streamlit app :streamlit run app.py
 
 Access the app in your browser at http://localhost:8501.
 
