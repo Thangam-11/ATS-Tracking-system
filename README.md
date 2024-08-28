@@ -20,8 +20,11 @@ pip install streamlit
 pip install google.generativeai
 
 Clone the repository:git clone https://github.com/Thangam-11/ATS-Tracking-system.git
+
 pip install -r requirements.txt
+
 streamlit run app.py
+
 Access the app in your browser at http://localhost:8501.
 
 # Features
@@ -32,16 +35,15 @@ The ATS Tracking System offers a user-friendly interface that allows users to ef
 Text Extraction: Uses the PyPDF2 library to extract text from uploaded resumes, initiating a thorough analysis.
 
 # Comprehensive Resume Analysis
- Summary:
-Provides a quick, comprehensive overview of resumes, emphasizing qualifications, key experience, skills, projects, and achievements.
- Strengths: 
-Highlights qualifications, experience, and accomplishments, providing job seekers with a competitive edge.
- Weaknesses:
-Pinpoints areas for improvement and offers tailored suggestions to transform weaknesses into strengths.
-Suggestions:
+ Summary:Provides a quick, comprehensive overview of resumes, emphasizing qualifications, key experience, skills, projects, and achievements.
+ 
+ Strengths: Highlights qualifications, experience, and accomplishments, providing job seekers with a competitive edge.
+ 
+ Weaknesses:Pinpoints areas for improvement and offers tailored suggestions to transform weaknesses into strengths.Suggestions.
+ 
 Recommends personalized job titles aligned with the user's qualifications and resume content, optimizing the job search experience.
- Percentage Match: 
-Evaluates the percentage match between the resume and the job description.
+
+Percentage Match: Evaluates the percentage match between the resume and the job description.
 
 # How It Works
 
